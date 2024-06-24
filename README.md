@@ -1,4 +1,10 @@
-<h3>When I code, I rely on</h3>
+<h3>My Recent Articles</h3>
+<ul>
+  <li><a href="#"><i>Getting Started with Java: A Beginner’s Guide to Setting Up Your First Application</i></a></li>
+  <li><a href="#"><i>Pushing Your First Java App to GitHub: A Step-by-Step Guide</i></a></li>
+  <li><a href="#"><i>The Ultimate Checklist for Starting a Java Project: Best Practices and Tips</i></a></li>
+</ul>
+<p>I am a software developer specializing in Java and I work in the financial sector. I have many ideas, work hard with the team, and strive to improve myself and others.</p>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
