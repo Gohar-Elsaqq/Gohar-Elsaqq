@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/mohamed-gohar-76975420b/" target="_blank">My account link on LinkedIn</a>
 
 <p>
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Spring Data" src="https://img.shields.io/badge/-Spring%20Data-6db33f?style=flat-square&logo=spring&logoColor=white" />
