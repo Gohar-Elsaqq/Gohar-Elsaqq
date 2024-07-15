@@ -4,8 +4,7 @@
 <a href="https://www.linkedin.com/in/mohamed-gohar-76975420b/" target="_blank">My account link on LinkedIn</a>
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img  src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="80" title="">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Spring Data" src="https://img.shields.io/badge/-Spring%20Data-6db33f?style=flat-square&logo=spring&logoColor=white" />
