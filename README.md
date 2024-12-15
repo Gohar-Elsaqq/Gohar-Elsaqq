@@ -1,5 +1,5 @@
 <h1 aling ="center" >Hi I`m Mohamed Gohar</h1>
-<pSkilled Back-End Developer with 2 years of experience in designing, developing, and maintaining high-performance, enterprise-level web systems using Java.
+<p>Skilled Back-End Developer with 2 years of experience in designing, developing, and maintaining high-performance, enterprise-level web systems using Java.
 Proficient in writing secure, clean, scalable code with expertise in code refactoring. Specialized in maintaining mission-critical, high-performance systems at the
 enterprise level, and adept at collaborating with teams to deliver innovative and reliable solutions that achieve business goals.</p>
 
