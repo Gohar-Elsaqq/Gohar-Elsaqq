@@ -1,5 +1,7 @@
 <h1 aling ="center" >Hi I`m Mohamed Gohar</h1>
-<p>Detail-oriented Back-End Developer with nearly one year of experience in the fintech industry, specializing in Java programming with expertise in Spring Boot, Hibernate, and database management (MySQL, PostgreSQL,). Skilled in designing, implementing, and optimizing high-performance, scalable back-end solutions.for web application development and integrating robust RESTful APIs. Adept at collaborating with cross-functional teams to deliver secure, reliable, and efficient applications. Seeking a challenging role to apply my technical skills in developing innovative software solutions that drive business success..</p>
+<pSkilled Back-End Developer with 2 years of experience in designing, developing, and maintaining high-performance, enterprise-level web systems using Java.
+Proficient in writing secure, clean, scalable code with expertise in code refactoring. Specialized in maintaining mission-critical, high-performance systems at the
+enterprise level, and adept at collaborating with teams to deliver innovative and reliable solutions that achieve business goals.</p>
 
 <a href="https://www.linkedin.com/in/mohamed-gohar-76975420b/" target="_blank">My account link on LinkedIn</a>
 
